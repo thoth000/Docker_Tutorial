@@ -18,3 +18,7 @@ docker images
 
 # イメージの削除
 docker rmi mnist-cnn
+
+## 参考資料
+- [【Docker入門】初心者向け！Dockerの基本を学んでコンテナ型の仮想環境を作ろう！](https://youtu.be/B5tSZr_QqXw?si=qTkjdDOOTLwJOK0c)
+- [MLやってる人向けに最低限理解してほしいDocker勉強会](https://www.docswell.com/s/8590143908/KNRQVD-2023-10-25-145217#p1)
