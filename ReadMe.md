@@ -1,4 +1,4 @@
-# docker tutorial
+# Docker Tutorial
 このリポジトリは、**Dockerの基本操作を学ぶためのリポジトリ**です。  
 PyTorch を使って MNIST を分類するモデルを、Docker上で学習・推論します。
 
